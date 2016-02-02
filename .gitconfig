@@ -46,3 +46,6 @@
 [credential]
 	# Guarda los credenciales de github/bitbucket 2hr (duracion practicas)
 	helper = cache --timeout=7200
+[user]
+	email = daniel.redondoc@estudiante.uam.es
+	name = Daniel Redondo
